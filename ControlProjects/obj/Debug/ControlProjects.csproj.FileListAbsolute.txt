@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\ControlProjects.exe.config
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\ControlProjects.exe
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\ControlProjects.pdb
+C:\Users\User\source\repos\ControlProjects\ControlProjects\obj\Debug\ControlProjects.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ControlProjects\ControlProjects\obj\Debug\ControlProjects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ControlProjects\ControlProjects\obj\Debug\ControlProjects.exe
+C:\Users\User\source\repos\ControlProjects\ControlProjects\obj\Debug\ControlProjects.pdb
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\source\repos\ControlProjects\ControlProjects\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\source\repos\ControlProjects\ControlProjects\obj\Debug\ControlProjects.csproj.CopyComplete
